@@ -13,7 +13,7 @@ section{
 .gif{
     position: absolute;
     left:50%; 
-	top: 10%; 
+	top: 20%; 
 	transform:translate(-50%,-50%);
     z-index: -1;
     
@@ -46,5 +46,7 @@ section{
 .mainRubrik{
     font-size: 80px;
     position: relative;
+    font-weight: bold;
+    padding-top: 110px;
 }
 
